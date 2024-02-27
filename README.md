@@ -6,7 +6,7 @@
 # WELCOME :raised_hands:
 ![Hi Minseung](https://github.com/wings-forever/wassup2/assets/87570958/69ac4aad-70f3-4715-a233-a15dcf57e162)
 
-# TOOLS & SKILLS :wrench:
+## TOOLS & SKILLS :wrench:
 <img src = "https://img.shields.io/badge/python-e9eff7?style=flat&logo=python&logoColor=white/"> <img src = "https://img.shields.io/badge/figma-f6b26b?style=flat&logo=figma&logoColor=white/"> <img src = "https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white/"> <img src = "https://img.shields.io/badge/MySQL-e9eff7?style=flat&logo=MySQL&logoColor=white/">  <img src = "https://img.shields.io/badge/clickup-d9d2e9?style=flat&logo=clickup&logoColor=white/"> <img src = "https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white/">
 
 ## ABOUT ME :mag_right:
