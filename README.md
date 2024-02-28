@@ -10,6 +10,7 @@
 <img src = "https://img.shields.io/badge/python-e9eff7?style=flat&logo=python&logoColor=white/"> <img src = "https://img.shields.io/badge/figma-f6b26b?style=flat&logo=figma&logoColor=white/"> <img src = "https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white/"> <img src = "https://img.shields.io/badge/MySQL-e9eff7?style=flat&logo=MySQL&logoColor=white/">  <img src = "https://img.shields.io/badge/clickup-d9d2e9?style=flat&logo=clickup&logoColor=white/"> <img src = "https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white/">
 
 ## ABOUT ME :mag_right:
+**2024.01 ~ 현재 이스트소프트 KDT 서비스기획 과정 WASSUP2**
 
 **2022.12 ~ 2023.02 튜터링 - AI 영어학습 서비스 기획**
 * LLM을 활용한 AI 영어학습 서비스 프로젝트 참여
